@@ -82,8 +82,8 @@ header {
 
 
 
-/* --- Parallax --- */
-.parallax {
+/* --- Banner --- */
+.banner {
 	text-align:center;
 	background-position:center center;
 	background-size:cover;
